@@ -1,0 +1,20 @@
+[5]
+[3]
+items 1 i 1 B_left 1
+items 1 i 0 B_left 0
+times [3, 5]
+Case #1: 5
+[5]
+[3, 4]
+items 2 i 1 B_left 0
+times [4]
+Case #2: 4
+[6, 9]
+[6, 7]
+[6, 10]
+[6, 8]
+[6, 11]
+items 2 i 1 B_left 2
+items 2 i 2 B_left 0
+times [7, 8]
+Case #3: 8
